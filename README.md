@@ -14,4 +14,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Alt text](./screenshots/Screenshot%202024-09-22%20112540.png)
 
-live link: 
+live link: https://quicksell-frontend-assignment-zeta.vercel.app/
